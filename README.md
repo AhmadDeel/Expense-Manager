@@ -1,2 +1,2 @@
 # Expense-Manager
-Simple Expense Manager App Written By ASP.NET Core MVC
+Simple Expense Manager App Written With ASP.NET Core MVC
