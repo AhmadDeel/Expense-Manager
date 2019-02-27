@@ -1,0 +1,28 @@
+﻿.padding {
+    padding: 10px;
+}
+
+.title {
+    text-align: center;
+}
+
+.left-buttons {
+    float: left;
+    margin-left: 20px;
+}
+
+.right-form {
+    float: right;
+    width: 40%;
+}
+
+.chart-container {
+    min-width: 400px;
+    height: 400px;
+    margin: 0 auto
+}
+
+.center-buttons {
+    width: fit-content;
+    margin: auto;
+}
